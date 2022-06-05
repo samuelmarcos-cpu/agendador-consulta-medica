@@ -120,7 +120,7 @@ public class TelaCadastroConsulta extends javax.swing.JFrame {
         jScrollPane2.setViewportView(jTable2);
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("CADASTRO DE MÉDICOS");
+        setTitle("CADASTRO DE CONSULTAS");
         setResizable(false);
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
