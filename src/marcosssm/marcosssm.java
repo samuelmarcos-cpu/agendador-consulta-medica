@@ -1,3 +1,5 @@
+//  # Script para inicializar o banco de dados
+//
 //   create database if not exists marcosssm;
 //
 //   use marcosssm;
